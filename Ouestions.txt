@@ -1,0 +1,78 @@
+Easy Questions:
+
+1.	Write a Python program to print "Hello, World!".
+2.	Calculate the sum of two numbers entered by the user.
+3.	Find and print the largest number among three given numbers.
+4.	Calculate and print the area of a rectangle when the user inputs its length and width.
+5.	Check if a given number is even or odd and print the result.
+6.	Write a program to check if a number is positive, negative, or zero.
+7.	Write a Python program to swap the values of two variables.
+8.	Create a simple calculator program that can add, subtract, multiply, or divide two numbers.
+9.	Check if a string is a palindrome (reads the same forwards and backwards).
+10.	Calculate and print the factorial of a number using a loop.
+11.	Generate the first n numbers in the Fibonacci sequence.
+12.	Check if a number is prime and print the result.
+13.	Count the number of words in a given text.
+14.	Reverse a string without using built-in string reversal functions.
+15.	Calculate the average of a list of numbers.
+16.	Create a program to convert temperatures between Celsius and Fahrenheit.
+17.	Calculate the sum of natural numbers up to a given value using a loop.
+18.	Write a Python program to find the square root of a number.
+19.	Implement a basic inventory management system with add, remove, and display functions.
+20.	Create a program that generates a random password of a specified length.
+21.	Check if a given year is a leap year.
+22.	Calculate the volume of a sphere given its radius.
+23.	Write a program to check if a number is a perfect number.
+24.	Convert a decimal number to binary.
+25.	Calculate the GCD (Greatest Common Divisor) of two numbers using the Euclidean algorithm.
+26.	Create a program that calculates and prints the factorial of a number using recursion.
+27.	Generate a list of prime numbers within a specified range.
+28.	Count the occurrences of a specific word in a text.
+29.	Calculate and print the LCM (Least Common Multiple) of two numbers.
+30.	Implement a basic calculator with a graphical user interface (GUI) using Tkinter.
+31.	Sort a list of numbers in ascending order using the bubble sort algorithm.
+32.	Create a program to find and replace a word in a text.
+33.	Calculate and print the sum of all even numbers in a given range.
+34.	Generate a list of Armstrong numbers within a specified range.
+35.	Write a program to find the largest and smallest elements in a list.
+36.	Convert a decimal number to hexadecimal.
+37.	Check if a given string is a pangram (contains all letters of the alphabet).
+38.	Calculate the area and perimeter of a circle given its radius.
+
+Intermediate Questions:
+
+39.	Write a Python program to check if a number is a prime number.
+40.	Create a program to calculate the sum of all odd numbers in a given range.
+41.	Implement a basic unit converter for length, allowing users to convert between different units (e.g., meters to feet, kilometers to miles).
+42.	Calculate and print the area of a right-angled triangle given its base and height.
+43.	Write a program to find the largest common divisor (LCD) of two numbers.
+44.	Implement a basic unit converter for temperature, allowing users to convert between Celsius and Fahrenheit.
+45.	Calculate and print the area of a parallelogram given its base and height.
+46.	Write a Python program to validate a Sudoku solution.
+47.	Create a program to generate and solve a Sudoku puzzle.
+48.	Calculate and print the volume of a rectangular prism given its dimensions.
+49.	Calculate the area and perimeter of a rectangle given its length and width.
+50.	Implement a basic file management system with options to create, read, update, and delete files.
+51.	Create a program to solve a quadratic equation.
+52.	Sort a list of numbers in ascending order using the selection sort algorithm.
+53.	Calculate and print the sum of the first n natural numbers using the formula.
+54.	Implement a simple dictionary with add, remove, and search functions.
+55.	Calculate the power of a number using a loop.
+56.	Check if a string is an anagram of another string.
+57.	Calculate the area of a triangle given its base and height.
+58.	Find the intersection of two lists.
+59.	Implement a basic To-Do List application with add, remove, and list tasks.
+60.	Create a program that generates a random number and asks the user to guess it.
+61.	Write a program to reverse the words in a given sentence.
+62.	Calculate and print the sum of the cubes of odd numbers in a list.
+63.	Implement a simple calculator program that can perform basic operations with fractions (addition, subtraction, multiplication, and division).
+64.	Write a Python program to determine if a given number is a palindrome.
+65.	Calculate and print the volume of a cube given the length of its side.
+66.	Write a Python program to check if a number is a prime number.
+
+Hard Questions:
+
+67.	Create a program to calculate the sum of all odd numbers in a given range.
+68.	Implement a basic unit converter for length, allowing users to convert between different units (e.g., meters to feet, kilometers to miles).
+69.	Calculate and print the area of a right-angled triangle given its base and height.
+70.	Write a program to find the largest common divisor (LCD) of two numbers
